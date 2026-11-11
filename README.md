@@ -1,4 +1,6 @@
 
+
+
 # Raimundo Walter Pereira dos Santos
 > Estudante de Ciência da Computação | Python | Inteligência Artificial | Cibersegurança
 
